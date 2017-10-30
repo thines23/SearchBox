@@ -1,0 +1,16 @@
+{
+  "name": "angular-website",
+  "version": "1.0.0",
+  "description": "test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "th",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-animate": "^1.6.6",
+    "angular-route": "^1.6.6",
+    "jquery": "^3.2.1"
+  }
+}
